@@ -1,6 +1,6 @@
 = simple_sheets
 
-Description goes here.
+SimpleSheets provides a simple API to create XML-Excel-sheets.
 
 == Contributing to simple_sheets
  
