@@ -1,0 +1,7 @@
+require "simple_sheets/tag"
+require "simple_sheets/data"
+require "simple_sheets/cell"
+require "simple_sheets/row"
+require "simple_sheets/table"
+require "simple_sheets/worksheet"
+require "simple_sheets/workbook"
